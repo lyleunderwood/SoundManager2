@@ -1,0 +1,11 @@
+{
+  "name": "SoundManager2",
+  "version": "2.97a.20120916",
+  "main": [
+    "./script/soundmanager2.js",
+    "./script/soundmanager2-jsmin.js",
+    "./script/soundmanager2-nodebug.js",
+    "./script/soundmanager2-nodebug-jsmin.js"
+  ],
+  "dependencies": {}
+}
